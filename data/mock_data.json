@@ -1,8 +1,8 @@
 [
     {
         "Name": "Aaron Vandeweghe",
-        "Gender": "Male",
-        "Country": "United States",
-        "Age": "19"
+        "Id": "1",
+        "Age": "19",
+        "Image": "one.png"
     }
 ]
